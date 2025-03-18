@@ -31,7 +31,9 @@ O projeto facilita a organização do sorteio entre amigos, garantindo praticida
 ---
 
 ## 🚀 Como Rodar o Projeto  
-- Faça o **download** ou **clone** este repositório 
+- Faça o **download**, **clone** este repositório ou [🔗 Acesse o Projeto Amigo Secreto](https://challenge-amigo-secreto-natalia.vercel.app/)
+
+---
 
 ## 💬 Contribuições  
 Contribuições são sempre bem-vindas! 😊  
